@@ -1,4 +1,7 @@
+#Задача 10
+
 import random
+
 number_coins = int(input())
 coins_1 = 0
 coins_0 = 0
